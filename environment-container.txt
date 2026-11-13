@@ -1,0 +1,24 @@
+=== Kernel shared with Ubuntu VM ===
+Linux ddd25c6ddac2 7.0.0-43-generic #43-Ubuntu SMP PREEMPT_DYNAMIC Fri Oct 23 13:25:25 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+=== Container OS ===
+NAME="Ubuntu"
+VERSION="18.04.5 LTS (Bionic Beaver)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 18.04.5 LTS"
+VERSION_ID="18.04"
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+VERSION_CODENAME=bionic
+UBUNTU_CODENAME=bionic
+=== Python ===
+Python 3.6.9
+=== Bundled compiler ===
+clang version 10.0.0 
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /workdir/PERIOD/clang+llvm/bin
+=== Source commit, if available ===
+b6f72a7b06d01ffa7114b640312873ec2578a5ea
