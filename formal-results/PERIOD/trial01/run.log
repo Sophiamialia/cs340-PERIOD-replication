@@ -10,7 +10,7 @@ runs_limit: 10000
 [4;36mPerform DBDS Run with default system scheduling![0m
 
 --------------------------------------
-Runtime: 8290
+Runtime: 4500
 ThreadNum:  4
 MaxKpNum:  2
 TupleScheduling: 0
@@ -160,5 +160,5 @@ Total Timeouts Interleavings: 0
 --------------------------------------------------
 	Last New Find		Total
 Round	0			100
-Time	00:00:00.00000		00:00:03.76105
+Time	00:00:00.00000		00:00:05.52715
 [0m

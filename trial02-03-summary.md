@@ -6,6 +6,7 @@ Date: 2026-11-20
 
 | Metric | Trial 01 | Trial 02 | Trial 03 |
 |---|---:|---:|---:|
+| Total schedules | 100 | 100 | 100 |
 | First error schedule | 9 | 9 | 9 |
 | Error interleavings | 12 | 12 | 12 |
 | Timeouts | 0 | 0 | 0 |
@@ -18,6 +19,7 @@ Sample standard deviation: 1.69585 s
 
 | Metric | Trial 01 | Trial 02 | Trial 03 |
 |---|---:|---:|---:|
+| Total schedules | 384 | 384 | 384 |
 | First error schedule | 47 | 47 | 47 |
 | Error interleavings | 85 | 87 | 90 |
 | Timeouts | 1 | 0 | 0 |
@@ -32,6 +34,7 @@ Sample standard deviation: 10.33664 s
 |---|---:|---:|
 | Mean elapsed time (s) | 3.94950 | 16.35081 |
 | Sample standard deviation (s) | 1.69585 | 10.33664 |
+| Total schedules | 100 | 384 |
 | Mean error interleavings | 12.00 | 87.33 |
 | Total timeouts | 0 | 1 |
 

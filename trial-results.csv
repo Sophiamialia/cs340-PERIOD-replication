@@ -1,0 +1,7 @@
+method,file,total_schedules,first_error,errors,timeouts,elapsed
+PERIOD,reorder4-period-trial01.log,100,9,12,0,5.52715
+PERIOD,reorder4-period-trial02.log,100,9,12,0,2.1561
+PERIOD,reorder4-period-trial03.log,100,9,12,0,4.16526
+Serial Compatibility,reorder4-serial-compat-trial01.log,384,47,85,1,28.28271
+Serial Compatibility,reorder4-serial-compat-trial02.log,384,47,87,0,10.12333
+Serial Compatibility,reorder4-serial-compat-trial03.log,384,47,90,0,10.64638

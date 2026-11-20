@@ -1,0 +1,10 @@
+mesg: ttyname failed: Inappropriate ioctl for device
+opts: [('-r', './out_reorder_4_bad_2/Errors/000086_0000349_assertion-failed')]
+args: ['./reorder_4_bad']
+reproduceFile: ./out_reorder_4_bad_2/Errors/000086_0000349_assertion-failed
+
+
+[4;36mPerform Dry Run![0m
+
+[4;36mPerform Reproduction![0m
+Reproduction exit code: 0

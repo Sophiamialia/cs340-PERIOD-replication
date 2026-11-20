@@ -1,0 +1,3 @@
+Method,Mean elapsed time (s),Sample SD (s),Mean error interleavings,Total timeouts
+PERIOD,3.94950,1.69585,12.00,0
+Serial Compatibility,16.35081,10.33664,87.33,1

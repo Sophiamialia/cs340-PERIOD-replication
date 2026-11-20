@@ -1,0 +1,12 @@
+mesg: ttyname failed: Inappropriate ioctl for device
+opts: [('-r', './out_reorder_4_bad_10/Errors/000001_0000047_assertion-failed')]
+args: ['./reorder_4_bad']
+reproduceFile: ./out_reorder_4_bad_10/Errors/000001_0000047_assertion-failed
+
+
+[4;36mPerform Dry Run![0m
+
+[4;36mPerform Reproduction![0m
+Bug found!
+reorder_4_bad: reorder_bad.c:80: void *checkThread(void *): Assertion `0' failed.
+Reproduction exit code: 0
