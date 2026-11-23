@@ -21,7 +21,7 @@ This repository documents our replication experiments. The original PERIOD tool 
 |---|---|---|---|
 | Li Mengya | 1240035896 | Sophiamialia | TBD |
 | Jiao Yuhan | 1240023651 | jiaoyuhan060208 | TBD |
-| Lin Mengyao | 1240020457 | TBD | TBD |
+| Lin Mengyao | 1240020457 | lynn060104 | TBD |
 | TBD | TBD | TBD | TBD |
 
 Team responsibilities and individual contributions will be updated as the project progresses.
