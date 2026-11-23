@@ -1,0 +1,8 @@
+opts: [('-r', '/tmp/period-replay-inputs/schedule-222.input')]
+args: ['./reorder_4_bad']
+reproduceFile: /tmp/period-replay-inputs/schedule-222.input
+
+
+[4;36mPerform Dry Run![0m
+
+[4;36mPerform Reproduction![0m

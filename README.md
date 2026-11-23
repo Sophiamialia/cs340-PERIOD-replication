@@ -188,9 +188,9 @@ The comparison identified:
 
 All 85 common schedule IDs contained identical saved interleaving records.
 
-### 8.2 PDS Replay Results
+### 8.2 Final PDS Replay Results
 
-Selected schedules were independently tested using PDS replay.
+Four selected schedules were independently tested five times each using PDS replay.
 
 | Schedule | Assertion-Failure Reproductions | Attempts | Observed Rate |
 |---|---:|---:|---:|
@@ -198,14 +198,24 @@ Selected schedules were independently tested using PDS replay.
 | 80 | 5 | 5 | 100% |
 | 222 | 0 | 5 | 0% |
 | 349 | 0 | 5 | 0% |
+| Total | 10 | 20 | 50% |
 
-Schedules 47 and 80 consistently reproduced the assertion failure.
+Schedules 47 and 80 reproduced the assertion failure in all five attempts.
 
-Schedules 222 and 349 did not reproduce the assertion failure in the five observed attempts.
+Schedules 222 and 349 entered the reproduction phase but did not reproduce the assertion failure in any of the five attempts.
 
-These observations describe the current experimental environment and should not be interpreted as theoretical probabilities.
+These results distinguish scan-time error detection from independent replay stability. The observed rates apply only to the four selected schedules in the current experimental environment and should not be interpreted as theoretical probabilities or the overall detection rate of PERIOD.
 
-Scan-time error detection and successful independent replay are distinct experimental outcomes.
+The 20 final replay logs are archived under:
+
+- `formal-results/reorder_4/replay/final/schedule-47/`
+- `formal-results/reorder_4/replay/final/schedule-80/`
+- `formal-results/reorder_4/replay/final/schedule-222/`
+- `formal-results/reorder_4/replay/final/schedule-349/`
+
+Each directory contains five attempt logs. The corresponding replay inputs are archived under `formal-results/reorder_4/replay/inputs/`.
+
+SHA256 checks confirmed matching log hashes within each five-attempt schedule group.
 
 ## 9. Reproducibility and Data Organization
 

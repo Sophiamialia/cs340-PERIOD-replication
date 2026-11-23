@@ -1,0 +1,10 @@
+opts: [('-r', '/tmp/period-replay-inputs/schedule-80.input')]
+args: ['./reorder_4_bad']
+reproduceFile: /tmp/period-replay-inputs/schedule-80.input
+
+
+[4;36mPerform Dry Run![0m
+
+[4;36mPerform Reproduction![0m
+Bug found!
+reorder_4_bad: reorder_bad.c:80: void *checkThread(void *): Assertion `0' failed.
