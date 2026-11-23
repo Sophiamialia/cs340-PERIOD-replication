@@ -1,0 +1,26 @@
+===== WSL2 ENVIRONMENT =====
+Mon Nov 23 16:40:27 CST 2026
+Linux linn 6.18.58.1-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Tue Oct 27 00:24:11 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+PRETTY_NAME="Ubuntu 22.04.1 LTS"
+NAME="Ubuntu"
+VERSION_ID="22.04"
+VERSION="22.04.1 LTS (Jammy Jellyfish)"
+VERSION_CODENAME=jammy
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+
+===== DOCKER =====
+Docker version 29.1.3, build 29.1.3-0ubuntu3~22.04.2
+
+===== DOCKER IMAGE =====
+ID=sha256:8f47d8b9148f2db579627842026e722d0f205ddeab13e70ee41a8df3dbd59fbc Created=2022-01-17T02:55:03.970023478Z OS=linux Arch=amd64
+
+===== CONTAINER =====
+Container=/period-wsl2 Image=sha256:8f47d8b9148f2db579627842026e722d0f205ddeab13e70ee41a8df3dbd59fbc
+
+===== PERIOD SOURCE =====
+b6f72a7b06d01ffa7114b640312873ec2578a5ea
+
+===== PYTHON =====
+Python 3.6.9

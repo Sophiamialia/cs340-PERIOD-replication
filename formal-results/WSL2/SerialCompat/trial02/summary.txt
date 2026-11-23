@@ -1,0 +1,14 @@
+Experiment: SerialCompat
+Benchmark: reorder_4_bad
+Bug Depth: 3
+Subprocess Timeout: 5 seconds
+Runs Limit: 10000
+
+ThreadNum: 4
+MaxKpNum: 2
+Total Tested Interleavings: 384
+Total Error Interleavings: 90
+Total Timeout Interleavings: 0
+Execution Time: 67.60141 seconds
+
+Status: Completed successfully
