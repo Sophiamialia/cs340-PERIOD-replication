@@ -206,6 +206,23 @@ Schedules 222 and 349 entered the reproduction phase but did not reproduce the a
 
 These results distinguish scan-time error detection from independent replay stability. The observed rates apply only to the four selected schedules in the current experimental environment and should not be interpreted as theoretical probabilities or the overall detection rate of PERIOD.
 
+
+Additional exit-status diagnostics were conducted separately
+for Schedules 222 and 349 using the debug PDS script.
+
+Both schedules completed five diagnostic runs. All ten target
+process executions returned exit code 0, and no assertion
+failure was observed.
+
+The diagnostic logs are archived under:
+
+- replay/diagnostic/schedule-222/
+- replay/diagnostic/schedule-349/
+
+These supplementary diagnostic runs do not change the
+20 formal replay attempts reported above.
+
+
 The 20 final replay logs are archived under:
 
 - `formal-results/reorder_4/replay/final/schedule-47/`

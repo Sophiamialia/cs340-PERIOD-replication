@@ -61,6 +61,27 @@ The original schedule inputs are archived under:
 
 SHA256 checks were performed on the archived logs. The five logs within each schedule group have matching hashes.
 
+## 6. Additional Exit-Status Diagnostics
+
+Five supplementary diagnostic runs were conducted for each
+of Schedules 222 and 349 using the debug PDS script.
+
+| Schedule | Diagnostic Runs | Exit Code 0 | Assertion Failures |
+|---|---:|---:|---:|
+| 222 | 5 | 5 | 0 |
+| 349 | 5 | 5 | 0 |
+
+All ten target process executions returned exit code 0.
+
+Diagnostic logs are archived under:
+
+- replay/diagnostic/schedule-222/
+- replay/diagnostic/schedule-349/
+
+These supplementary diagnostic runs are separate from
+the 20 formal replay attempts.
+
+## 7. Experimental Limitations
 ## 6. Experimental Limitations
 
 The replay experiment covers four selected schedules only.
