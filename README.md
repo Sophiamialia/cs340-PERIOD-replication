@@ -1,6 +1,6 @@
 # CS340 PERIOD Replication
 
-A four-member group project for CS340 Operating Systems, Academic Year 2026–2027.
+A three-member group project for CS340 Operating Systems, Academic Year 2026–2027.
 
 ## 1. Selected Paper
 
@@ -22,7 +22,6 @@ This repository documents our replication experiments. The original PERIOD tool 
 | Li Mengya | 1240035896 | Sophiamialia | TBD |
 | Jiao Yuhan | 1240023651 | jiaoyuhan060208 | TBD |
 | Lin Mengyao | 1240020457 | lynn060104 | TBD |
-| TBD | TBD | TBD | TBD |
 
 Team responsibilities and individual contributions will be updated as the project progresses.
 
