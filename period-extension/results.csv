@@ -1,0 +1,10 @@
+workers,trial,schedules,errors,timeouts,elapsed_seconds,source_log
+2,1,26,0,0,1.34095,formal-logs/threads-2-trial-1.log
+2,2,26,0,0,1.93282,formal-logs/threads-2-trial-2.log
+2,3,26,0,0,1.00129,formal-logs/threads-2-trial-3.log
+4,1,364,0,0,14.31980,formal-logs/threads-4-trial-1.log
+4,2,364,0,0,22.32706,formal-logs/threads-4-trial-2.log
+4,3,364,0,0,18.00654,formal-logs/threads-4-trial-3.log
+8,1,3256,0,0,244.90184,formal-logs/threads-8-trial-1.log
+8,2,3256,0,2,406.18193,formal-logs/threads-8-trial-2.log
+8,3,3256,0,0,84.36241,formal-logs/threads-8-trial-3.log

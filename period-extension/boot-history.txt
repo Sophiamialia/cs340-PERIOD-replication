@@ -1,0 +1,8 @@
+reboot   system boot  6.8.0-149-generic Wed Nov 25 12:34   still running
+reboot   system boot  6.8.0-149-generic Wed Nov 25 00:22   still running
+reboot   system boot  6.8.0-149-generic Tue Nov 24 23:44   still running
+reboot   system boot  6.8.0-138-generic Tue Nov 24 22:58 - 23:45  (00:47)
+reboot   system boot  6.8.0-138-generic Fri Nov  6 22:12 - 00:44  (02:31)
+reboot   system boot  6.8.0-138-generic Fri Oct 23 21:31 - 23:23  (01:51)
+reboot   system boot  6.8.0-138-generic Fri Oct 23 17:18 - 21:26  (04:07)
+reboot   system boot  6.8.0-138-generic Fri Oct 23 17:03 - 17:22  (00:18)

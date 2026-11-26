@@ -1,0 +1,6 @@
+Batch 1: Native 6.076 ms | PERIOD 17.061 ms | ratio 2.808x
+Batch 2: Native 6.380 ms | PERIOD 19.136 ms | ratio 3.000x
+Batch 3: Native 7.488 ms | PERIOD 17.674 ms | ratio 2.360x
+native: n=30 | mean 6.648 ms | median 6.313 ms | SD 1.314 ms
+period: n=30 | mean 17.957 ms | median 18.004 ms | SD 4.596 ms
+Overall ratio (PERIOD mean / Native mean): 2.701x
