@@ -1,0 +1,12 @@
+Batch 1 native: total=10 exit0=10 timeout=0
+Batch 1 period: total=10 exit0=10 timeout=0
+Batch 1 ratio: 2.618x
+Batch 2 native: total=10 exit0=10 timeout=0
+Batch 2 period: total=10 exit0=10 timeout=0
+Batch 2 ratio: 3.147x
+Batch 3 native: total=10 exit0=10 timeout=0
+Batch 3 period: total=10 exit0=10 timeout=0
+Batch 3 ratio: 4.662x
+native: n=30 mean=4.562 ms median=4.292 ms SD=0.972 ms
+period: n=30 mean=15.557 ms median=14.312 ms SD=5.296 ms
+Overall ratio (exit 0 only): 3.410x
