@@ -1,0 +1,4 @@
+Trial,Method,Benchmark,ThreadNum,TestedInterleavings,ErrorInterleavings,TimeoutInterleavings,Runtime
+1,SerialCompat,reorder_4_bad,4,384,90,0,809
+2,SerialCompat,reorder_4_bad,4,384,90,0,776
+3,SerialCompat,reorder_4_bad,4,384,88,0,641

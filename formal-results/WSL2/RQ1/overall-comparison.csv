@@ -1,0 +1,5 @@
+Benchmark,Threads,Method,Trials,AverageTestedInterleavings,AverageErrorInterleavings,AverageTimeouts
+reorder_3_bad,3,PDS,3,27,6,0
+reorder_3_bad,3,SerialCompat,3,30,9.3333,0
+reorder_4_bad,4,PDS,3,100,11.6667,0.3333
+reorder_4_bad,4,SerialCompat,3,384,89.3333,0

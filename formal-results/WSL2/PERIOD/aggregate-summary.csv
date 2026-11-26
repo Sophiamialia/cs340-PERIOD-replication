@@ -1,0 +1,4 @@
+Trial,Method,ThreadNum,BugDepth,TestedInterleavings,ErrorInterleavings,TimeoutInterleavings,Runtime,ElapsedTimeSeconds
+1,PDS,4,3,100,11,1,7850,25.56117
+2,PDS,4,3,100,12,0,9160,12.17071
+3,PDS,4,3,100,12,0,6340,12.76447

@@ -1,0 +1,14 @@
+Experiment: PERIOD RQ1
+Benchmark: reorder_4_bad
+Method: PDS
+Environment: WSL2 + Docker
+ThreadNum: 4
+Bug Depth: 3
+Subprocess Timeout: 5 seconds
+Runs Limit: 10000
+Total Tested Interleavings: 100
+Total Error Interleavings: 11
+Total Timeout Interleavings: 1
+Runtime: 7850
+Elapsed Time: 25.56117 seconds
+Status: Completed
