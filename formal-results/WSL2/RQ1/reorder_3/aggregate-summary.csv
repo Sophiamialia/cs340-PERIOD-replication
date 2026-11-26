@@ -1,0 +1,4 @@
+Trial,ThreadNum,SetThreads,CheckThreads,BugDepth,TestedInterleavings,ErrorInterleavings,TimeoutInterleavings,Runtime,ElapsedTimeSeconds
+1,3,2,1,3,27,6,0,5810,8.10928
+2,3,2,1,3,27,6,0,5470,4.48360
+3,3,2,1,3,27,6,0,4740,5.01530
